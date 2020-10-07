@@ -14,3 +14,6 @@ And finally , this software will also make a graph based on your previous health
 
 <h3> Thats all , hope you like it! </h3>
 
+# NOTE : 
+This project was made in a rush , so it maybe hard to contribute or fully understand the source code . So , if you got some ideas better drop them in issues I will surely check them and will try my best to apply them .
+
